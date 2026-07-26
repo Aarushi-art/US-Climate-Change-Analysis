@@ -2,31 +2,34 @@
 Data-driven analysis of U.S. carbon emissions, climate inequality, and economic decoupling (2004–2023) using Power BI, Excel, and publicly available climate datasets.
 
 # Objectives:
-Analyze long-term CO₂ emission trends
-Compare total vs per-capita emissions
-Evaluate sector-wise emissions
-Compare the United States with India, China and the global average
-Explore the relationship between GDP per capita and emissions
-Interpret findings through a climate justice lens
-Tools Used
+1. Analyze long-term CO₂ emission trends
+2. Compare total vs per-capita emissions
+3. Evaluate sector-wise emissions
+4. Compare the United States with India, China and the global average
+5. Explore the relationship between GDP per capita and emissions
+6. Interpret findings through a climate justice lens
+
+# Tools Used:
 Microsoft Power BI
 Microsoft Excel
 Power Query
 Data Visualization
 Climate Data Analysis
-Data Sources
+
+# Data Sources:
 Our World in Data
 Global Carbon Project
 World Bank
 US Environmental Protection Agency (EPA)
-Dashboard Features
-KPI Cards
-CO₂ Emissions Trend
-Per Capita Emissions
-Sector-wise Emissions
-Global Share of Emissions
-Cross-country Comparison
-GDP vs CO₂ Scatter Plot
+
+# Dashboard Features:
+1. KPI Cards
+2. CO₂ Emissions Trend
+3. Per Capita Emissions
+4. Sector-wise Emissions
+5. Global Share of Emissions
+6. Cross-country Comparison
+7. GDP vs CO₂ Scatter Plot
 
 These visualizations were designed to present the United States' emissions profile through a coherent analytical narrative.
 
