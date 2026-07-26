@@ -1,2 +1,49 @@
 # US-Climate-Change-Analysis
 Data-driven analysis of U.S. carbon emissions, climate inequality, and economic decoupling (2004–2023) using Power BI, Excel, and publicly available climate datasets.
+
+# Objectives:
+Analyze long-term CO₂ emission trends
+Compare total vs per-capita emissions
+Evaluate sector-wise emissions
+Compare the United States with India, China and the global average
+Explore the relationship between GDP per capita and emissions
+Interpret findings through a climate justice lens
+Tools Used
+Microsoft Power BI
+Microsoft Excel
+Power Query
+Data Visualization
+Climate Data Analysis
+Data Sources
+Our World in Data
+Global Carbon Project
+World Bank
+US Environmental Protection Agency (EPA)
+Dashboard Features
+KPI Cards
+CO₂ Emissions Trend
+Per Capita Emissions
+Sector-wise Emissions
+Global Share of Emissions
+Cross-country Comparison
+GDP vs CO₂ Scatter Plot
+
+These visualizations were designed to present the United States' emissions profile through a coherent analytical narrative.
+
+# Key Findings:
+1. Total emissions decreased by approximately 19.5% between 2004 and 2023.
+2. Per-capita emissions declined by approximately 31.4%.
+3. Most emissions reductions came from the electric power sector.
+4. Transportation remained one of the most difficult sectors to decarbonize.
+5. Despite reductions, U.S. per-capita emissions remain significantly above both the global average and India's.
+6. Economic growth occurred alongside lower carbon intensity, suggesting evidence of partial decoupling.
+
+# Skills Demonstrated:
+1. Data Cleaning
+2. Data Visualization
+3. Power BI Dashboard Design
+4. Statistical Interpretation
+5. Sustainability Analytics
+6. Climate Data Analysis
+7. Research Writing
+8. Storytelling with Data
